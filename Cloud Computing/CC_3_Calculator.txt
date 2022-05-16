@@ -1,7 +1,0 @@
-1]	Open Developers Console
-2]	Create Apex Class (Claculator_Class)
-3]	Create Visualforce Page (Claculator_vfp)
-4]	Save All the files
-
-	TO RUN THE CODE
-5]	Click on priview button(top left) on vfp page  
