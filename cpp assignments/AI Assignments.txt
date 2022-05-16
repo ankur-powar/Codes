@@ -1,0 +1,10 @@
+1] 	BFS and DFS
+2]	a] Job Scheduling Problem 
+	b] Dijkstra's Single source shortest path
+	c] Prim's Algorithm for creating MST
+	d] Kruskal's algorithm for creating MST
+
+3]	a] N queen Problem
+	b] Graph Coloring problem
+	->using both back tracking and branch and bound techniques
+4]	Sovle 8-puzzle problem using A* Algorithm 
